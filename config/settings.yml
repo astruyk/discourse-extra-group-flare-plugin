@@ -1,0 +1,4 @@
+plugins:
+  group_flare_enabled:
+    default: false
+    client: true
