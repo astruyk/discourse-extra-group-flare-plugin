@@ -6,4 +6,4 @@
 
 register_asset "styles.css"
 
-enabled_site_setting :donate_links_enabled
+enabled_site_setting :group_flare_enabled
